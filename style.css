@@ -1,0 +1,15 @@
+body {
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 5%;
+}
+
+.container {
+	background-color: whitesmoke;
+	border-style: solid;
+	border-color: grey;
+}
